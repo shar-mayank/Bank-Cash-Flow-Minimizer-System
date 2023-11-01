@@ -7,6 +7,7 @@ Axis Bank
 Kotak Mahindra Bank Punjab_National_Bank
  
 Following are the payments to be done:
+
 <img width="670" alt="image" src="https://github.com/Shar-Mayank/Bank-Cash-Flow-Minimizer-System/assets/108417648/245e9a70-7756-47f0-851b-8b16c6ff3eb8">
 
 But there's a catch!! Each Bank only supports a set of modes of payments and can make or receive payments only via those. Only World Bank supports all modes of payments. In our current example we have only three payment modes :
