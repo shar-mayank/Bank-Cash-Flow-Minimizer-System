@@ -1,4 +1,4 @@
-# Bank-Cash-Flow-Minimizer-System
+# Bank-Cash-Flow-Minimizer-System in C++ and Python
 
 This project aims to minimize the number of financial transactions among multiple banks that use different payment methods. To achieve this, we introduce a "World Bank" that supports all payment methods. When banks need to transfer money and don't share a common payment method, they go through the World Bank as an intermediary.
 Let's take an example. say we have the following banks: Bank_of_America (World bank)
